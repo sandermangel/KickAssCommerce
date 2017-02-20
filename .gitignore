@@ -1,7 +1,8 @@
-vendor/
-public/.htaccess
-storage/cache/aop/*
-storage/cache/api/*
-!storage/cache/aop/.gitkeep
-.env
-build/
+/vendor/
+/public/.htaccess
+/storage/cache/aop/*
+/storage/cache/api/*
+/!storage/cache/aop/.gitkeep
+/.env
+/build/
+/composer.lock
